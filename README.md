@@ -1,6 +1,6 @@
 # PART 1
 
-In this Program the application is sending the integer data from the input topic called "topic-input" with partitions = 10 to output topic called "topic-output" with partition = 1. The data is accumulated from multiple partitions and is sorted before producing in the output topic.
+In this program the application is sending the integer data from the input topic called "topic-input" with 10 partitions to output topic called "topic-output" with a single partition. The data is accumulated from multiple partitions and is sorted before producing in the output topic.
 
 ## How to run and test locally?
 
